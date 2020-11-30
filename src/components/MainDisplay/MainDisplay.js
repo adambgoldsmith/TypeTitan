@@ -2,7 +2,6 @@ import React, {useState, useEffect} from 'react'
 import WordDisplay from './WordDisplay'
 import InputDisplay from './InputDisplay'
 import textLibrary from './TextLibrary'
-import Container from 'react-bootstrap/Container'
 
 // Use context for passing props?
 
@@ -22,7 +21,7 @@ function MainDisplay(props) {
     }, [])
 
     return (
-        <div style={{marginTop: '150px'}}>
+        <div style={{marginTop: '100px'}}>
             <WordDisplay 
                 text={text} 
                 setText={setText}
