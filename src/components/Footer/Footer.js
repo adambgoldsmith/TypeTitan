@@ -7,7 +7,7 @@ function Footer() {
     return (
         <div className='fixed-bottom'>
             <Container style={{width: '750px', marginBottom: '35px'}}>
-                <p style={{fontSize: '13px'}}>Constructed by Adam Goldsmith <br></br> View on <a style={{color: 'grey'}} href='www.google.com'>github</a></p>
+                <p style={{fontSize: '13px'}}>Constructed by Adam Goldsmith <br></br> View on <a style={{color: 'grey'}} href='https://github.com/adambgoldsmith/TypeTitan'>github</a></p>
             </Container>
         </div>
     )
