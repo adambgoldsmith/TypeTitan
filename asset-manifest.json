@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TypeTitan/static/css/main.39f2b054.chunk.css",
+    "main.js": "/TypeTitan/static/js/main.5ee72315.chunk.js",
+    "main.js.map": "/TypeTitan/static/js/main.5ee72315.chunk.js.map",
+    "runtime-main.js": "/TypeTitan/static/js/runtime-main.04437521.js",
+    "runtime-main.js.map": "/TypeTitan/static/js/runtime-main.04437521.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/TypeTitan/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.6d812460.chunk.js": "/TypeTitan/static/js/2.6d812460.chunk.js",
+    "static/js/2.6d812460.chunk.js.map": "/TypeTitan/static/js/2.6d812460.chunk.js.map",
+    "static/js/3.32838c5d.chunk.js": "/TypeTitan/static/js/3.32838c5d.chunk.js",
+    "static/js/3.32838c5d.chunk.js.map": "/TypeTitan/static/js/3.32838c5d.chunk.js.map",
+    "index.html": "/TypeTitan/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/TypeTitan/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.39f2b054.chunk.css.map": "/TypeTitan/static/css/main.39f2b054.chunk.css.map",
+    "static/js/2.6d812460.chunk.js.LICENSE.txt": "/TypeTitan/static/js/2.6d812460.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04437521.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.6d812460.chunk.js",
+    "static/css/main.39f2b054.chunk.css",
+    "static/js/main.5ee72315.chunk.js"
+  ]
+}
